@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Ali Majdl 👋
 
-<!--
-**Dark04Phoenix/Dark04Phoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer passionate about building APIs and web applications.
 
-Here are some ideas to get you started:
+🎓 Datamatiker graduate in Denmark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+C#
+Python  
+FastAPI  
+SQL / SQLite  
+REST APIs  
+React  
+JavaScript  
+
+---
+
+## Featured Projects
+
+🔹 Task Manager (FastAPI + React)  
+Full-stack task management app with authentication and CRUD operations.
+
+🔹 SQL vs Firebase Architecture  
+Comparison project demonstrating differences between relational and NoSQL databases.
+
+🔹 IMDB Console Application  
+C# console application using SQL Server with CRUD operations and stored procedures.
+
+---
+
+## What I'm focusing on
+
+Building backend systems with C#, Python and FastAPI  
+Improving system architecture and API design  
+Learning modern full-stack development
+
+---
+
+## Connect with me
+
+LinkedIn : https://www.linkedin.com/in/ali-majdl-9a682b2a8/
+Portfolio website : https://alimajdl.netlify.app/
