@@ -1,7 +1,6 @@
-## 👋 Hi, I'm Ali Majdl
-
-💻 Software Developer (C# / .NET, APIs, Databases)  
-🎓 Datamatiker graduate in Denmark  
+## 👋 Hi, I'm Ali Majdl  
+💻 Backend-focused Software Developer (C# / .NET, APIs & Databases)  
+🚀 Building scalable systems and real-world applications
 
 ---
 
