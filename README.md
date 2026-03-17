@@ -1,45 +1,30 @@
-# Hi, I'm Ali Majdl 👋
+## 👋 Hi, I'm Ali Majdl
 
-Backend developer passionate about building APIs and web applications.
-
-🎓 Datamatiker graduate in Denmark
-
----
-
-## Tech Stack
-
-C#
-Python  
-FastAPI  
-SQL / SQLite  
-REST APIs  
-React  
-JavaScript  
+💻 Software Developer (C# / .NET, APIs, Databases)  
+🎓 Datamatiker graduate in Denmark  
 
 ---
 
-## Featured Projects
-
-🔹 Task Manager (FastAPI + React)  
-Full-stack task management app with authentication and CRUD operations.
-
-🔹 SQL vs Firebase Architecture  
-Comparison project demonstrating differences between relational and NoSQL databases.
-
-🔹 IMDB Console Application  
-C# console application using SQL Server with CRUD operations and stored procedures.
+### 🚀 Tech Stack
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=microsoftsqlserver)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 
 ---
 
-## What I'm focusing on
-
-Building backend systems with C#, Python and FastAPI  
-Improving system architecture and API design  
-Learning modern full-stack development
+### 📊 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark04Phoenix&show_icons=true&theme=dark)
 
 ---
 
-## Connect with me
+### 💡 What I bring
+- Strong backend mindset (APIs, databases, architecture)
+- Clean, structured code with focus on scalability
+- Fast learner & problem solver
 
-LinkedIn : https://www.linkedin.com/in/ali-majdl-9a682b2a8/
-Portfolio website : https://alimajdl.netlify.app/
+---
+
+### 🌍 Connect with me
+🔗 Portfolio: https://alimajdl.netlify.app  
+🔗 LinkedIn: https://linkedin.com/in/ali-majdl-9a682b2a8/
